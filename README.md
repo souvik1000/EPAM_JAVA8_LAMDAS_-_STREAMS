@@ -1,4 +1,4 @@
-# EPAM_JAVA8_LAMDAS_-_STREAMS
+# EPAM_JAVA8_LAMDAS_AND_STREAMS
 Its a EPAM Project where we learnt about JAVA8 Stream and Lamdas. 
 We used Stream in here.
 
